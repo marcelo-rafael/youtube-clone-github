@@ -3,9 +3,9 @@ UI Clone - Github responsive
 </h1>
 
 <p align="center">Responsive Github UI Clone for study purposes.</p>
-<p align="center">Deployed <a href="https://youtube-clone-twitter.netlify.app/">here</a>.</p>
+<p align="center">Deployed <a href="https://youtube-clone-github.netlify.app/">here</a>.</p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dd356ff0-2f3b-47c0-8d50-aab743c4a37a/deploy-status)](https://app.netlify.com/sites/youtube-clone-twitter/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dff7a297-77f9-48b0-914a-f88501353aa1/deploy-status)](https://app.netlify.com/sites/youtube-clone-github/deploys)
 
 <hr>
 
@@ -20,7 +20,7 @@ UI Clone - Github responsive
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/marcelo-rafael/youtube-clone-twitter/
+$ git clone https://github.com/marcelo-rafael/youtube-clone-github/
 ```
 
 1. Run `npm install` or `yarn install`.<br />
