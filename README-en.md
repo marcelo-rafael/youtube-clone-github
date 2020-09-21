@@ -1,5 +1,5 @@
 <h1 align="center">
-UI Clone (Motion) - Typeform Homepage
+UI Clone - Github responsive
 </h1>
 
 <hr>
@@ -11,9 +11,9 @@ UI Clone (Motion) - Typeform Homepage
 </p>
 
 <h4 align="center"> 
-	🚧  Ui-Clone 🚀 progress 🚀 🚧
+	🚧  UI Clone - Github responsive 🚀 progress 🚀 🚧
 </h4>
-<p align="center">Deployed <a href="https://youtube-clone-motion-typeform-homepage.netlify.app/">here</a>.</p>
+<p align="center">Deployed <a href="https://youtube-clone-github.netlify.app/">here</a>.</p>
 
 <p align="center">
  <a href="#about">About</a> •
@@ -25,9 +25,10 @@ UI Clone (Motion) - Typeform Homepage
 
 ## About
 
-Animated Typeform Homepage with Framer Motion (ReactJS) | UI clone for study purposes.
+Responsive Github UI clone for study purposes
 
-Project developed during the **UI Clone** offered by [Rocketseat](https://www.youtube.com/watch?v=O2xM5H7Ooj4&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=11).
+
+Project developed during the **UI Clone** offered by [Rocketseat](https://www.youtube.com/watch?v=iLEbGQXsg3k&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=5&t=4111s).
 
 ---
 
@@ -35,7 +36,7 @@ Project developed during the **UI Clone** offered by [Rocketseat](https://www.yo
 
 This project is done in one part:
 
-1. Frontend (youtube-clone-typeform-homepage folder)
+1. Frontend (youtube-clone-github folder)
 
 ### Pré-requisites
 
@@ -48,10 +49,10 @@ In addition, it is good to have an editor to work with the code like [VSCode] (h
 ```bash
 
 # Clone this repository
-$ git clone https://github.com/marcelo-rafael/youtube-clone-motion-typeform-homepage/
+$ git clone https://github.com/marcelo-rafael/youtube-clone-github/
 
 # Access the project folder in your terminal
-$ cd primeiro-projeto-com-react
+$ cd youtube-clone-github
 
 # Install the dependencies
 $ yarn install or npm install
@@ -65,16 +66,28 @@ $ yarn start or npm run start
 
 ---
 
+## Ideas to implement
+
+- [ ] Use [SWR](https://swr.vercel.app/) as cache invalidation strategy
+- [ ] Fetch data from [GitHub V4 API](https://docs.github.com/en/graphql) (GraphQL instead of REST).
+- [ ] Create new routes with [React Router](https://reactrouter.com/web/guides/quick-start) (e.g. Github Feed, complete Repo page)
+
+---
+
 ## Tech Stack
 
 The following tools were used in the construction of the project:
 
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
--   **[framer/motion](https://github.com/framer/motion)**
+-   **[history](https://github.com/ReactTraining/history)**
 -   **[Styled Components](https://github.com/styled-components/styled-components)**
+-   **[date-fns](https://github.com/date-fns/date-fns)**
+-   **[react-calendar-heatmap](https://github.com/kevinsqi/react-calendar-heatmap)**
+-   **[react-icons](https://react-icons.github.io/react-icons/)**
+-   **[react-router-dom](https://reactrouter.com/web/guides/quick-start)**
 
-> See the file  [package.json](https://github.com/marcelo-rafael/primeiro-projeto-com-react/blob/master/package.json)
+> See the file  [package.json](https://github.com/marcelo-rafael/youtube-clone-github/blob/master/package.json)
 
 ---
 
@@ -83,7 +96,6 @@ The following tools were used in the construction of the project:
 1. Fork the project.
 2. Create a new branch with your changes: `git checkout -b my-feature`
 3. Save your changes and create a commit message telling you what you did: `git commit -m" feature: My new feature "`
-4. Submit your changes: `git push origin my-feature`
 
 ---
 
