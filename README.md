@@ -81,7 +81,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
--   **[history](https://github.com/ReactTraining/history#readme)**
+-   **[history](https://github.com/ReactTraining/history)**
 -   **[Styled Components](https://github.com/styled-components/styled-components)**
 -   **[date-fns](https://github.com/date-fns/date-fns)**
 -   **[react-calendar-heatmap](https://github.com/kevinsqi/react-calendar-heatmap)**
